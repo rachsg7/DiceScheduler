@@ -10,9 +10,9 @@ from firebase_admin import db
 import firebase_admin
 from firebase_admin import credentials
 
-cred = credentials.Certificate("pycrud-57abf-firebase-adminsdk-cy0ub-0af2119564.json")
+cred = credentials.Certificate("YOUR_JSON_FILE_HERE.JSON")
 firebase_admin.initialize_app(cred, {
-    'databaseURL': "https://pycrud-57abf-default-rtdb.firebaseio.com/"
+    'databaseURL': "https://YOUR_DATABASE_HERE.firebaseio.com/"
 })
 
 ref = db.reference("Database reference")
