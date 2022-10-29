@@ -4,7 +4,7 @@ This software uses Firestore to create a database of dice. As I make dice as a h
 
 This small program is a text-based program, so all of your work is done in the console. In my tutorial I briefly show how to hook it up to Google Firestore.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](http://youtu.be/MxqjxfI9x_8?hd=1)
 
 # Cloud Database
 
