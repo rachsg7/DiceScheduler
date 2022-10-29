@@ -37,7 +37,6 @@ Dice Scheduler was made in Visual Studio Code in Python, using Google Firestore'
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Google's Firestore Docs](https://firebase.google.com/docs/firestore/manage-data/structure-data)
 * [Free Code Camp](https://www.freecodecamp.org/news/how-to-get-started-with-firebase-using-python/)
 
